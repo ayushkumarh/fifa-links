@@ -1,19 +1,19 @@
 {
   "rewrites": [
     {
-      "source": "/fifa1",
+      "source": "/Fifa1",
       "destination": "/Fifa1.html"
     },
     {
-      "source": "/fifa2",
+      "source": "/Fifa2",
       "destination": "/Fifa2.html"
     },
     {
-      "source": "/hin",
+      "source": "/Hin",
       "destination": "/HIN.html"
     },
     {
-      "source": "/willow",
+      "source": "/Willow",
       "destination": "/Willow.html"
     }
   ]
